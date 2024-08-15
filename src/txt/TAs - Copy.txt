@@ -1,0 +1,7 @@
+6
+13	Alum	Philip	9114426	MIAE
+13	Alum	Thanusan	1666534	ECE
+6	Alum	Daksh	5434733	ECE
+11	UGrad	Aboubacry	2252689	MIAE
+7	UGrad	Udaipal	4439033	CIS
+7	Grad	Charles	9740058	BIS

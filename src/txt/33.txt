@@ -1,0 +1,7 @@
+6
+11	UGrad	Aboubacrys	2252689	MIAE
+7	Grad	Charles	9740058	BIS
+7	UGrad	Udaipal	4439033	CIS
+45	UGrad	hell	54634	PSY
+231	Grad	hello	427432	BIO
+432	UGrad	hello	353453	SOEN
