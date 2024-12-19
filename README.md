@@ -32,7 +32,7 @@ The TA Record Management System is a C++ program designed to manage records of T
 
 ## Structure
 
-- **Main Program**: Manages the flow of the application, including initializing data, handling errors, and directing user interaction.
+- **Main Programa**: Manages the flow of the application, including initializing data, handling errors, and directing user interaction.
 - **Filtering Invalid Records**: Reads TA data from a file, removes invalid records, and saves the updated list.
 - **Adding New TAs**: Prompts the user to input new TA details, ensuring data integrity and uniqueness.
 - **Sorting Records**: Allows the user to sort TA records based on selected criteria and saves the sorted list.
